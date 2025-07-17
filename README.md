@@ -43,6 +43,24 @@
 
 ## 📸 Screenshots
 
-> *(Optional — You can add screenshots or GIFs of the UI here to showcase your app)*
+### 🎬 Home Page
+![Home](./assets/screenshots/home.png)
 
+### 📄 Movie Details page
+![Movie Details](./assets/screenshots/moviedetails.png)
+
+### 📄 Trending page
+![Trending](./assets/screenshots/trending.png)
+
+### 📄 Popular Page
+![Details](./assets/screenshots/popular.png)
+
+### 📄 People Page
+![Details](./assets/screenshots/moviedetails.png)
+
+### 📄 People Details Page 1
+![Details](./assets/screenshots/peopledetails.png)
+
+### 📄 People Details Page 2
+![Details](./assets/screenshots/peopledetails2.png)
 ---
