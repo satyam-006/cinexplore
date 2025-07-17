@@ -10,7 +10,7 @@ import PersonDetails from "./components/partials/PersonDetails";
 import TvShowDetails from "./components/partials/TvShowDetails";
 import Trailer from "./components/partials/Trailer";
 import MovieTypes from "./components/partials/MovieTypes";
-import TvTypes from "./components/partials/tvTypes";
+import TvTypes from "./components/partials/TvTypes";
 import User from "./components/partials/User";
 import NotFound from "./components/partials/NotFound";
 
