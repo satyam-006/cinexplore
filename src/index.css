@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+
+}
+
+#root{
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #181818;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #F5C518;
+}
+
+.custom-dropdown select {
+    background-color: transparent;
+    color: #fff;
+    border: 1.5px solid #9CA5C7;
+    border-radius: 5px;
+    outline: none;
+}
+.custom-dropdown option{
+    background-color: #1A1A1A;
+}
+
