@@ -44,23 +44,23 @@
 ## 📸 Screenshots
 
 ### 🎬 Home Page
-![Home](.src/assets/screenshots/home.png)
+![Home](./src/assets/screenshots/home.png)
 
 ### 📄 Movie Details page
-![Movie Details](./assets/screenshots/moviedetails.png)
+![Movie Details](./src/assets/screenshots/moviedetail.png)
 
 ### 📄 Trending page
-![Trending](./assets/screenshots/trending.png)
+![Trending](./src/assets/screenshots/trending.png)
 
 ### 📄 Popular Page
-![Details](./assets/screenshots/popular.png)
+![Details](./src/assets/screenshots/popularmovies.png)
 
 ### 📄 People Page
-![Details](./assets/screenshots/moviedetails.png)
+![Details](./src/assets/screenshots/people.png)
 
 ### 📄 People Details Page 1
-![Details](./assets/screenshots/peopledetails.png)
+![Details](./src/assets/screenshots/peopledetail.png)
 
 ### 📄 People Details Page 2
-![Details](./assets/screenshots/peopledetails2.png)
+![Details](./src/assets/screenshots/peopledetail2.png)
 ---
