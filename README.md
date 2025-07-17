@@ -44,7 +44,7 @@
 ## 📸 Screenshots
 
 ### 🎬 Home Page
-![Home](./assets/screenshots/home.png)
+![Home](.src/assets/screenshots/home.png)
 
 ### 📄 Movie Details page
 ![Movie Details](./assets/screenshots/moviedetails.png)
