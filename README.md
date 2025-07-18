@@ -37,7 +37,7 @@
 ## 🌐 Live Demo
 
 > **[Include a deployed link here if available, e.g., Netlify, Vercel]**  
-> _e.g._ 👉 [cinexplore.vercel.app](https://cinexplore.vercel.app)
+> _e.g._ 👉 [cinexplore-movie.vercel.app](https://cinexplore-movie.vercel.app/)
 
 ---
 
