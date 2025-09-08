@@ -1,8 +1,6 @@
 # 🎬 CineXplore
 
-## NOTE:
-If using **JIO** network to open this website please try another network to open it because API is blocked by **JIO**.
-Thanks
+#### NOTE: If using **JIO** network to open this website please try another network to open it because API is blocked by **JIO**.
 
 **Cinexplore** is a sleek and modern frontend web application that allows users to explore movies, TV shows, and people in the entertainment industry. Built entirely with **React** and **Tailwind CSS**, this project leverages **The Movie Database (TMDb) API** to provide rich, real-time content. Users can search, discover, and view where titles are available to stream (OTT platforms), along with detailed information.
 
